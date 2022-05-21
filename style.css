@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Montserra";
+    src: url("fonts/Montserrat-Regular.ttf") format("truetype");
+}
+
+body {
+    font-family: Montserra;
+}
+
+.grd{
+    width: 1072px;
+}
+
+.recipe>img{
+    height: 150px;
+    position: absolute;
+    top:0px;
+    left: 100px;
+}
+
+.recipe{
+    position: relative;
+    width: 345px;
+    display: table-cell;
+    text-align: center;
+    height: 300px;
+    font-size: 60px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+a,a:hover,a:active{
+    text-decoration: none;
+    color:black;
+}
+
+.poids{
+    width: 48px;
+    height: 48px;
+    background-image: url('http://jdlbox.com/recettes/img/weight.png');
+    background-repeat: no-repeat;
+}
+
+.action{
+    width: 48px;
+    height: 48px;
+    background-image: url('http://jdlbox.com/recettes/img/wrench.png');
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 60px;
+}
+
+table{
+    width: 100%;
+    font-size: 35px;
+    border-color: rgba(0,0,0,0);
+    border-collapse: collapse;
+}
+
+.vide{
+    height: 50px;
+}
+
+.alt{
+    background-color: hsl(0, 0%, 80%);
+}
