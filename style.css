@@ -48,6 +48,20 @@ a,a:hover,a:active{
     background-repeat: no-repeat;
 }
 
+.link{
+    width: 48px;
+    height: 48px;
+    background-image: url('http://jdlbox.com/recettes/img/link.png');
+    background-repeat: no-repeat;
+}
+
+.tool{
+    width: 48px;
+    height: 48px;
+    background-image: url('http://jdlbox.com/recettes/img/tools.png');
+    background-repeat: no-repeat;
+}
+
 h1{
     font-size: 60px;
 }
