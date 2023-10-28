@@ -23,4 +23,4 @@
 🔧 Mettre sur le côté du BBQ hors des flammes
 🔧 Installer la sonde
 🔧 Poser des noisettes de beurre brun
-🔧 Chauffer à coeur - 57°C
+🔧 Chauffer à cœur - 57°C
