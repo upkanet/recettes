@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01989bd8f2eae24c",
+        "id": "694df3fa21d03593",
         "type": "tabs",
         "children": [
           {
-            "id": "867f65ae6542702a",
+            "id": "98c2caf330fd4d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "867f65ae6542702a",
+  "active": "98c2caf330fd4d55",
   "lastOpenFiles": [
     "Recettes.md",
     "plats/Rumsteak BBQ.md"
