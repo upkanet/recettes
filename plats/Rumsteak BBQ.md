@@ -1,4 +1,4 @@
-🔗Source : https://www.youtube.com/watch?v=3f7EysW_ZNw
+🔗 https://www.youtube.com/watch?v=3f7EysW_ZNw
 🔪 BBQ (250°C)
 🔪 Sonde de température
 ***
