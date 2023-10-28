@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plats/Rumsteak BBQ.md",
+                "file": "Recettes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plats/Rumsteak BBQ.md",
+                "file": "Recettes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plats/Rumsteak BBQ.md",
+                "file": "Recettes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plats/Rumsteak BBQ.md"
+                "file": "Recettes.md"
               }
             }
           }
@@ -148,7 +148,7 @@
   },
   "active": "98c2caf330fd4d55",
   "lastOpenFiles": [
-    "Recettes.md",
-    "plats/Rumsteak BBQ.md"
+    "plats/Rumsteak BBQ.md",
+    "Recettes.md"
   ]
 }
