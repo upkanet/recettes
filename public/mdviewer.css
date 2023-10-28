@@ -26,3 +26,8 @@ li > ul > li{
     background-color: #333;
     cursor: pointer;
 }
+
+li > ul > li a{
+    text-decoration: none;
+    color:white;
+}
