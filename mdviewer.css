@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Montserra";
+    src: url("fonts/Montserrat-Regular.ttf") format("truetype");
+}
+
+body {
+    font-family: Montserra;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+
+}
+
+li {
+    width: fit-content;
+}
+
+li > ul > li{
+    border: 1px solid black;
+    color:white;
+    width: 200px;
+    padding: 5px;
+    margin-top: 2px;
+    background-color: #333;
+    cursor: pointer;
+}
