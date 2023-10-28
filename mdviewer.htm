@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+</head>
+<body>
+    <div id="navbar">
+        <ul>
+            <li>Plats
+                <ul>
+                    <li data-recipe="plats/Rumsteak BBQ">🥩 Rumsteak BBQ</li>
+                    <li data-recipe="plats/Pizza Margerita">🍕 Pizza Margerita</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div id="renderer"></div>
+    <script>
+        function render(url){
+            console.log('Rendering',url)
+            const filename = url.split('/').slice(-1)[0].split('.md')[0]
+            fetch(url)
+                .then(response=>response.text())
+                .then(data=>{
+                    data = data.replaceAll('\n','<br>')
+                    data = data.replaceAll('<br>***<br>','\n***\n')
+                    document.getElementById('renderer').innerHTML = `<h1>${filename}</h1>` + convert(data)
+                })
+        }
+
+        function convert(mdString){
+            let converter = new showdown.Converter()
+            return converter.makeHtml(mdString)    
+        }
+
+        document.querySelectorAll('[data-recipe]').forEach(node =>{
+            node.addEventListener('click',(ev)=>{
+                const li = ev.target
+                const link = li.dataset['recipe']
+                render(link+'.md')
+            })
+        })
+            
+
+
+    </script>
+</body>
+</html>
