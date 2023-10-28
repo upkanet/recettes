@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recettes.md",
+                "file": "plats/Pizza Margerita.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recettes.md",
+                "file": "plats/Pizza Margerita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recettes.md",
+                "file": "plats/Pizza Margerita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recettes.md"
+                "file": "plats/Pizza Margerita.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   "active": "98c2caf330fd4d55",
   "lastOpenFiles": [
     "plats/Rumsteak BBQ.md",
-    "Recettes.md"
+    "plats/Pizza Margerita.md",
+    "Recettes.md",
+    "img/cookies.png",
+    "img/chocolat.png",
+    "img/brownies.png"
   ]
 }
