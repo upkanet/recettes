@@ -71,5 +71,5 @@ function replaceUrlsWithLinks(text) {
   
     const regex = new RegExp(expressionWithHttp);
   
-    return text.replace(regex, "<a href='$1'>$1</a>");
+    return text.replace(regex, "<a href='$1' target='_new'>$1</a>");
   }
