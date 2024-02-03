@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4b4e0e16bd86ca1",
+            "id": "64a288d5d60459bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plats/Rumsteak BBQ.md",
+                "file": "plats/Pizza Margerita.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bbf6d8c6df04e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plats/Pennette Gratinate all'Aragosta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd7a1f70ee3ded86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plats/Sushi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plats/Rumsteak BBQ.md",
+                "file": "plats/Sushi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plats/Rumsteak BBQ.md",
+                "file": "plats/Sushi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plats/Rumsteak BBQ.md"
+                "file": "plats/Sushi.md"
               }
             }
           }
@@ -146,8 +171,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d4b4e0e16bd86ca1",
+  "active": "cd7a1f70ee3ded86",
   "lastOpenFiles": [
-    "plats/Pizza Margerita.md"
+    "plats/Pizza Margerita.md",
+    "plats/Sushi.md",
+    "plats/Rumsteak BBQ.md",
+    "plats/Pennette Gratinate all'Aragosta.md"
   ]
 }
