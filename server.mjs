@@ -21,8 +21,7 @@ app.get('/recettes/:category/:recipeName', (req, res) => {
     
     try{
         let fileContent = fs.readFileSync(`recettes/${category}/${recipeName}.md`,'utf-8')
-        fileContent = fileContent.replaceAll('\n','<br>')
-        fileContent = fileContent.replaceAll('<br>***<br>','\n***\n')
+        fileContent = replaceUrlsWithLinks(fileContent)
         fileContent = fileContent.replaceAll('🔗','<img src="../../img/link.png" width="20">')
         fileContent = fileContent.replaceAll('⚖','<img src="../../img/weight.png" width="20">')
         fileContent = fileContent.replaceAll('🔧','<img src="../../img/wrench.png" width="20">')
@@ -41,7 +40,9 @@ app.listen(port, () => {
 })
 
 function convert(mdString){
-    let converter = new showdown.Converter()
+    let converter = new showdown.Converter({
+        simpleLineBreaks:true
+    })
     return converter.makeHtml(mdString)    
 }
 
@@ -63,3 +64,12 @@ function templatePage(title,content,pathToRoot){
     </html>
     `
 }
+
+function replaceUrlsWithLinks(text) {
+    const expressionWithHttp =
+      /(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*))/gi;
+  
+    const regex = new RegExp(expressionWithHttp);
+  
+    return text.replace(regex, "<a href='$1'>$1</a>");
+  }
