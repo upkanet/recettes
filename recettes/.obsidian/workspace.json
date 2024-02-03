@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d40694775a28f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "desserts/Brownies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plats/Sushi.md",
+                "file": "desserts/Brownies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plats/Sushi.md",
+                "file": "desserts/Brownies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plats/Sushi.md"
+                "file": "desserts/Brownies.md"
               }
             }
           }
@@ -171,11 +183,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "cd7a1f70ee3ded86",
+  "active": "0d40694775a28f31",
   "lastOpenFiles": [
-    "plats/Pizza Margerita.md",
     "plats/Sushi.md",
-    "plats/Rumsteak BBQ.md",
-    "plats/Pennette Gratinate all'Aragosta.md"
+    "desserts/Brownies.md",
+    "plats/Pennette Gratinate all'Aragosta.md",
+    "desserts/Cookies.md",
+    "desserts",
+    "plats/Pizza Margerita.md",
+    "plats/Rumsteak BBQ.md"
   ]
 }
