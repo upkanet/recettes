@@ -10,7 +10,7 @@ import listContents from 'list-contents'
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-    listContents('./recettes',(data)=>{
+    listContents('./recettes',{exclude: ['.obsidian']},(data)=>{
         res.send(templatePage('Recettes',data.files.map(file=>file.split('.md')[0]).map(file=>`<a href="recettes/${file}">${file}</a>`).join('<br>'),''))
     })
 })

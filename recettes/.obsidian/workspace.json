@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "2771ed5b806be166",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c08e1866b8e5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b4e0e16bd86ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plats/Rumsteak BBQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1af9ec04f23f0220",
+    "type": "split",
+    "children": [
+      {
+        "id": "99328873ae8578ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b41b4dadbd277c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "006b5ddfc3f14481",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a19a472f25cefc57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24cc75d8adab1d3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c7d615e1cedc7b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4269d6847488fec6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "plats/Rumsteak BBQ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "056af1f17678c121",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "plats/Rumsteak BBQ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e905c660f6fd72ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5da8798c68e54abc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "plats/Rumsteak BBQ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "d4b4e0e16bd86ca1",
+  "lastOpenFiles": [
+    "plats/Pizza Margerita.md"
+  ]
+}
