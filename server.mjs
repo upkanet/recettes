@@ -1,23 +1,33 @@
 import express from 'express'
 import fs from 'fs'
+import path from 'path'
 import {default as showdown}  from 'showdown'
 const app = express()
 const port = 3000
 
+import listContents from 'list-contents'
+
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-  res.send(templatePage("Recettes","<h1>Recettes</h1>",'.'))
+    listContents('./recettes',(data)=>{
+        res.send(templatePage('Recettes',data.files.map(file=>file.split('.md')[0]).map(file=>`<a href="recettes/${file}">${file}</a>`).join('<br>'),''))
+    })
 })
 
-app.get('/recipe/:category/:recipeName', (req, res) => {
+app.get('/recettes/:category/:recipeName', (req, res) => {
     const category = req.params.category
     const recipeName = req.params.recipeName
     
     try{
-        let fileContent = fs.readFileSync(`${category}/${recipeName}.md`,'utf-8')
+        let fileContent = fs.readFileSync(`recettes/${category}/${recipeName}.md`,'utf-8')
         fileContent = fileContent.replaceAll('\n','<br>')
         fileContent = fileContent.replaceAll('<br>***<br>','\n***\n')
+        fileContent = fileContent.replaceAll('🔗','<img src="../../img/link.png" width="20">')
+        fileContent = fileContent.replaceAll('⚖','<img src="../../img/weight.png" width="20">')
+        fileContent = fileContent.replaceAll('🔧','<img src="../../img/wrench.png" width="20">')
+        fileContent = fileContent.replaceAll('🔪','<img src="../../img/tools.png" width="20">')
+        fileContent = fileContent.replaceAll('👥','<img src="../../img/people.png" width="20">')
         res.send(templatePage(recipeName,`<h1>${recipeName}</h1>` + convert(fileContent),'../..'))
     }
     catch(err){
@@ -43,20 +53,9 @@ function templatePage(title,content,pathToRoot){
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>${title}</title>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
         <link rel="stylesheet" href="${pathToRoot}/mdviewer.css">
     </head>
     <body>
-        <div id="navbar">
-            <ul>
-                <li>Plats
-                    <ul>
-                        <li><a href="recipe/plats/Rumsteak BBQ">🥩 Rumsteak BBQ</a></li>
-                        <li data-recipe="plats/Pizza Margerita">🍕 Pizza Margerita</li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
         <main>
             ${content}
         </main>
