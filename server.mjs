@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
         })
         let html = ''
         Object.keys(menu).forEach(folder=>{
-            html += `<h1>${folder}</h1>`
+            html += `<h1>${capitalizeFirstLetter(folder)}</h1>`
             menu[folder].forEach(file=>{
                 html += `<a href="recettes/${folder}/${file}">${file}</a><br>`
             })
@@ -67,7 +67,7 @@ function templatePage(title,content,pathToRoot){
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>${title}</title>
-        <link rel="stylesheet" href="${pathToRoot}/mdviewer.css">
+        <link rel="stylesheet" href="${pathToRoot}/style.css">
     </head>
     <body>
         <main>
@@ -86,3 +86,7 @@ function replaceUrlsWithLinks(text) {
   
     return text.replace(regex, "<a href='$1' target='_new'>$1</a>");
   }
+
+function capitalizeFirstLetter(text){
+    return text.charAt(0).toUpperCase() + text.slice(1)
+}
