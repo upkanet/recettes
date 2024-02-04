@@ -7,6 +7,10 @@ body {
     font-family: Montserra;
 }
 
+blockquote{
+    background-color: hsl(0, 0%, 80%);
+}
+
 .grd{
     width: 1072px;
 }

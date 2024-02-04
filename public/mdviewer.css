@@ -7,6 +7,12 @@ body {
     font-family: Montserra;
 }
 
+blockquote{
+    background-color: hsl(0, 0%, 80%);
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+}
+
 ul {
     list-style-type: none;
     padding-left: 0;
