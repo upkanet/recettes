@@ -1,21 +1,21 @@
 🔗 https://www.youtube.com/watch?v=LntkKrKSp1E
 ***
-⚖ Riz japonais - 500 ml
+⚖ Riz japonais 📏 500 mL
 ***
 🔧 Rincer le riz dans une casserole en passoire
 🔧 Répéter le rinçage 3-4 fois pour que l'eau soit claire
-🔧 Laisser reposer - 30 min
+🔧 Laisser reposer 📏 30 min
 ***
-⚖ Eau - 500-550mL
+⚖ Eau 📏 500-550 mL
 ***
-🔧 Mettre le riz dans une casseroleà fond épais
+🔧 Mettre le riz dans une casserole à fond épais
 🔧 Couvrir la casserole
-🔧 Chauffer à feu doux - 2 min
-🔧 Chauffer au maximum - jusqu'à ébulition
-🔧 Chauffer à feu doux - 15 min
-🔧 Retirer du feu et laisser sous couvercle - 10-15 min
+🔧 Chauffer à feu doux 📏 2 min
+🔧 Chauffer au maximum jusqu'à ébulition
+🔧 Chauffer à feu doux 📏 15 min
+🔧 Retirer du feu et laisser sous couvercle 📏 10-15 min
 ***
-⚖ Vinaigre de riz - 100mL
+⚖ Vinaigre de riz 📏 100 mL
 ***
 🔧 Mouiller une spatule (pour éviter que cela colle)
 🔧 Déposer le riz en tas dans un grand plat avec la spatule

@@ -15,4 +15,7 @@ blockquote{
 
 .tab{
     float:right;
+    border-left: 2px solid black;
+    width: 100px;
+    text-align: right;
 }
