@@ -30,6 +30,7 @@
 🔗 https://www.youtube.com/watch?v=qOxvNmpr4Pc
 🔧 Avec les mains mouillées former une boule de riz
 ***
- (⚖ Wasabi)
+ >⚖ Wasabi
+ 
 ***
 🔧 Placer le saumon, coller éventuellement avec du wasabi

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plats/Mozzarella.md",
+                "file": "desserts/Pavlova.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plats/Mozzarella.md",
+                "file": "desserts/Pavlova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plats/Mozzarella.md",
+                "file": "desserts/Pavlova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plats/Mozzarella.md"
+                "file": "desserts/Pavlova.md"
               }
             }
           }
@@ -173,20 +173,20 @@
   },
   "active": "cd7a1f70ee3ded86",
   "lastOpenFiles": [
+    "desserts/Cookies.md",
     "desserts/Brownies.md",
-    "plats/Mozzarella.md",
-    "plats/Homard au four.md",
-    "desserts/Pavlova.md",
+    "glaces/Yahourt.md",
+    "glaces/Fraise.md",
+    "glaces/Citron.md",
+    "glaces/Chocolat.md",
+    "plats/Sushi.md",
+    "plats/Rumsteak BBQ.md",
     "plats/Pizza Margerita.md",
     "plats/Pennette Gratinate all'Aragosta.md",
-    "glaces/Fraise.md",
-    "glaces/Yahourt.md",
-    "glaces/Chocolat.md",
-    "glaces/Citron.md",
-    "plats/Sushi.md",
+    "plats/Homard au four.md",
+    "plats/Mozzarella.md",
+    "desserts/Pavlova.md",
     "glaces",
-    "desserts/Cookies.md",
-    "desserts",
-    "plats/Rumsteak BBQ.md"
+    "desserts"
   ]
 }

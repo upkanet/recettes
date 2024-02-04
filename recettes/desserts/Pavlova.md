@@ -4,7 +4,7 @@
 ***
 🔧 Mettre un cul-de-poule au congélateur
 ***
-⚖ Blancs d'oeufs tempéré - 3 oeufs
+⚖ Blancs d'oeufs tempérés - 3 oeufs
 ***
 🔧 Nettoyer parfaitement la cuve
 🔧 Battre les blancs jusqu'à mousser

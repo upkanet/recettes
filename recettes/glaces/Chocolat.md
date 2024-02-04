@@ -1,8 +1,9 @@
 ⚖ Lait entier 615g
 ⚖ Crème 35%MG - 51g
-ou
+>ou
 ⚖ Crème Isigny 40%MG - 25.5g
 ⚖ Crème entière 30%MG - 25.5g
+
 ⚖ Sucre inverti - 40g
 ***
 🔧 Chauffer le lait, la crème et le sucre inverti - 25°C
