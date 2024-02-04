@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plats/Homard au four.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d40694775a28f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "desserts/Brownies.md",
+                "file": "plats/Mozzarella.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plats/Homard au four.md",
+                "file": "plats/Mozzarella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plats/Homard au four.md",
+                "file": "plats/Mozzarella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plats/Homard au four.md"
+                "file": "plats/Mozzarella.md"
               }
             }
           }
@@ -186,6 +174,7 @@
   "active": "cd7a1f70ee3ded86",
   "lastOpenFiles": [
     "desserts/Brownies.md",
+    "plats/Mozzarella.md",
     "plats/Homard au four.md",
     "desserts/Pavlova.md",
     "plats/Pizza Margerita.md",
