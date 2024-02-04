@@ -10,7 +10,21 @@ app.use(express.static('public'))
 
 app.get('/', (req, res) => {
     listContents('./recettes',{exclude: ['.obsidian']},(data)=>{
-        res.send(templatePage('Recettes',data.files.map(file=>file.split('.md')[0]).map(file=>`<a href="recettes/${file}">${file}</a>`).join('<br>'),''))
+        const files = data.files
+        let menu = []
+        files.forEach(file => {
+            const folderFile = file.split('/')
+            menu[folderFile[0]] = menu[folderFile[0]] ? menu[folderFile[0]] : []
+            menu[folderFile[0]].push(folderFile[1].split('.md')[0])
+        })
+        let html = ''
+        Object.keys(menu).forEach(folder=>{
+            html += `<h1>${folder}</h1>`
+            menu[folder].forEach(file=>{
+                html += `<a href="recettes/${folder}/${file}">${file}</a><br>`
+            })
+        })
+        res.send(templatePage('Recettes',html,''))
     })
 })
 
