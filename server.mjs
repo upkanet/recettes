@@ -40,6 +40,8 @@ app.get('/recettes/:category/:recipeName', (req, res) => {
         fileContent = fileContent.replaceAll('🔧','<img src="../../img/wrench.png" width="20">')
         fileContent = fileContent.replaceAll('🔪','<img src="../../img/tools.png" width="20">')
         fileContent = fileContent.replaceAll('👥','<img src="../../img/people.png" width="20">')
+        fileContent = fileContent.replaceAll(/📏(.*)/g,'<span class="tab"><img src="../../img/ruler.png" width="20">$1</span>')
+        fileContent = fileContent.replaceAll('📏','<img src="../../img/ruler.png" width="20">')
         res.send(templatePage(recipeName,`<h1>${recipeName}</h1>` + convert(fileContent),'../..'))
     }
     catch(err){

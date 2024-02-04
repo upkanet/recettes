@@ -12,3 +12,7 @@ blockquote{
     margin-inline-start: 0em;
     margin-inline-end: 0em;
 }
+
+.tab{
+    float:right;
+}

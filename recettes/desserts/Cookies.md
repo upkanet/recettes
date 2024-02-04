@@ -1,9 +1,9 @@
 🔗 https://www.750g.com/cookies-americains-r43101.htm
 ***
-🔧 Préchauffer le four - grille basse - 220°C (7-8)
+🔧 Préchauffer le four - grille basse 📏 220°C (7-8)
 ***
-⚖ Farine - 250g
-⚖ Sucre de canne / Cassonade - 125g
+⚖ Farine 📏 250 g
+⚖ Sucre de canne / Cassonade 📏 125g
 ⚖ Sucre vanillé - 1 sachet
 ⚖ Sel - 1 pincée
 ⚖ Levure chimique - 1/2 sachet
