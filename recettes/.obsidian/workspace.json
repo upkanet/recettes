@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plats/Sushi.md",
+                "file": "desserts/Brownies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plats/Sushi.md",
+                "file": "plats/Pennette Gratinate all'Aragosta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plats/Sushi.md",
+                "file": "plats/Pennette Gratinate all'Aragosta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plats/Sushi.md"
+                "file": "plats/Pennette Gratinate all'Aragosta.md"
               }
             }
           }
@@ -171,8 +171,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "cd7a1f70ee3ded86",
+  "active": "3bbf6d8c6df04e0e",
   "lastOpenFiles": [
+    "desserts/Brownies.md",
+    "plats/Sushi.md",
     "plats/Rumsteak BBQ.md",
     "plats/Pizza Margerita.md",
     "plats/Pennette Gratinate all'Aragosta.md",
@@ -181,11 +183,9 @@
     "glaces/Fraise.md",
     "glaces/Yahourt.md",
     "desserts/Pavlova.md",
-    "desserts/Brownies.md",
     "glaces/Citron.md",
     "glaces/Chocolat.md",
     "desserts/Cookies.md",
-    "plats/Sushi.md",
     "glaces",
     "desserts"
   ]

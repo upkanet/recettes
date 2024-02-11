@@ -30,5 +30,5 @@
 ***
 🔧 Mélanger à la spatule
 🔧 Déposer dans le moule et bien étaler
-🔧 Cuire 📏 30 min
+🔧 Cuire 📏 25 min
 🔧 Laisser refroidir dans le moule
