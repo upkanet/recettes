@@ -1,6 +1,6 @@
 🔗 https://www.youtube.com/watch?v=3j5hvT4Vq4U
 🔪 Moules à cannelés en cuivre
-🔪 Quick
+🔪 Kiwk
 ***
 ⚖ Lait entier chaud 📏170 g
 ⚖ Beurre doux 📏20 g
@@ -34,7 +34,7 @@
 🔧 Bien mélanger
 🔧 Préchauffer 📏 230 °C
 🔧 Graisser les moules à la bombe
-🔧 Au Quick, couler la préparation dans les moules à 5 mm du bord
+🔧 Au Kwik, couler la préparation dans les moules à 5 mm du bord
 🔧 Cuire au four 📏 15 min
 🔧 Baisser la température 📏 180 °C
 🔧 Cuire 📏 45 min
