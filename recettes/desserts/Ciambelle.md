@@ -42,7 +42,7 @@
 🔧 Laisser lever 📏 40 min 📏 27°C
 ***
 🔧 Frire dans l'huile 📏 170°C
-🔧 Une fois un côté dorer, retourner pour dorer
+🔧 Une fois un côté doré, retourner pour dorer l'autre
 🔧 Sur un sopalin, éponger un peu l'huile en sortie de friteuse
 🔧 A chaud, tremper dans une assiette de sucre
 🔧 Saupoudrer si nécessaire
