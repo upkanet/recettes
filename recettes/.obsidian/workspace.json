@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4d40c7b50740109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "desserts/Ciambelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desserts/Cannelés.md",
+                "file": "desserts/Ciambelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "desserts/Cannelés.md",
+                "file": "desserts/Ciambelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "desserts/Cannelés.md"
+                "file": "desserts/Ciambelle.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f40aee6035bf5cfb",
+  "active": "b4d40c7b50740109",
   "lastOpenFiles": [
-    "desserts/Cookies.md",
     "desserts/Cannelés.md",
+    "desserts/Ciambelle.md",
     "desserts/Brownies.md",
+    "desserts/Cookies.md",
     "desserts/Pavlova.md",
     "plats/Pizza Margerita.md",
     "plats/Pizza Pistaccio.md",
