@@ -1,5 +1,5 @@
-⚖ Crème liquide entière 📏 60 mL
-⚖ Yahourt nature 📏 60 mL
+⚖ Crème liquide entière 📏  3 pots
+⚖ Yahourt nature 📏 6 pots
 ⚖ Sucre en poudre 📏 100 g
 ***
 🔧 Mixer tout 📏 1 min+
