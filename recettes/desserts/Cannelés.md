@@ -37,6 +37,7 @@
 🔧 Au Kwik, couler la préparation dans les moules à 5 mm du bord
 🔧 Cuire au four 📏 15 min
 🔧 Baisser la température 📏 180 °C
+🔧 Ouvrir la porte pour refroidir vite 📏 1 min
 🔧 Cuire 📏 45 min
 🔧 Démouler à la sortie du four
 🔧 Laisser refroidir 📏 1-2 h
