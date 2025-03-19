@@ -2,28 +2,28 @@
 🔪 Moules à cannelés en cuivre
 🔪 Kiwk
 ***
-⚖ Lait entier chaud 📏170 g
-⚖ Beurre doux 📏20 g
-⚖ Lait entier froid 📏170 g
+⚖ Lait entier chaud 📏510 g
+⚖ Beurre doux 📏60 g
+⚖ Lait entier froid 📏510 g
 ***
 🔧 Faire bouillir le beurre et le lait
-🔧 Verser dans un saladier
+🔧 Verser dans un petit saladier
 🔧 Ajouter le lait froid
 ***
-⚖ Gousse de vanille 📏1
+⚖ Gousse de vanille 📏3
 ***
 🔧 Gratter la gousse de vanille
 🔧 Infuser la dans le lait
 ***
-⚖ Œuf entier 📏1
-⚖ Jaunes d'œufs 📏2
-⚖ Sucre semoule 📏100 g
-⚖ Cassonade 📏70 g
-⚖ Farine T55 📏80 g
-⚖ Vanille liquide 📏8 g
-⚖ Rhum brun 📏35 g
+⚖ Œuf entier 📏3
+⚖ Jaunes d'œufs 📏6
+⚖ Sucre semoule 📏300 g
+⚖ Cassonade 📏210 g
+⚖ Farine T55 📏240 g
+⚖ Vanille liquide 📏24 g
+⚖ Rhum brun 📏105 g
 ***
-🔧 Mélanger les oeufs et les poudres dans un saladier
+🔧 Mélanger les oeufs et les poudres dans un grand saladier
 🔧 Ajouter la farine
 🔧 Ajouter la vanille liquide
 🔧 Ajouter le rhum
