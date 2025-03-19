@@ -23,7 +23,7 @@
 ⚖ Vanille liquide 📏24 g
 ⚖ Rhum brun 📏105 g
 ***
-🔧 Mélanger les oeufs et les poudres dans un grand saladier
+🔧 Mélanger les œufs et les sucres dans un grand saladier
 🔧 Ajouter la farine
 🔧 Ajouter la vanille liquide
 🔧 Ajouter le rhum
@@ -42,4 +42,4 @@
 🔧 Démouler à la sortie du four
 🔧 Laisser refroidir 📏 1-2 h
 ***
-🔧 Déguster dans la journée
+🔧 Déguster dans la demi journée
