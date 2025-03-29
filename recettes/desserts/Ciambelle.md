@@ -1,20 +1,26 @@
 🔗 https://www.youtube.com/watch?v=9mBrGkoXEDg
 🔪 Robot à pétrir
 ***
+⚖ Zestes d'orange 📏 1 orange
+⚖ Zestes de citron 📏 1 citron
+⚖ Sucre 📏 20 g
+***
+🔧 Mélanger dans une coupelle 📏 30 min
+***
 ⚖ Farine Type "00" 📏 250 g
 ⚖ Farine Manitoba 📏 250 g
-⚖ Sucre 📏 70 g
+⚖ Sucre 📏 50 g
 ⚖ Œufs entiers 📏 2
 ***
-🔧 Lancer le robot à vitesse moyenne
+🔧 Verser les poudres, dont le sucre zesté dans le robot
+🔧 Verser les oeufs
+🔧 Démarrer le robot à vitesse moyenne
 ***
 ⚖ Lait tiède 📏 200 mL
-***
-🔧 Incorporer le lait dans le robot
-***
 ⚖ Levure fraiche 📏 20 g
 ***
-🔧 Emietter la levure dans le robot
+🔧 Emietter la levure dans un récipient avec le lait
+🔧 Incorporer le lait dans le robot
 ***
 ⚖ Vanille 📏 1 gousse
 ⚖ Beurre 📏 70 g
