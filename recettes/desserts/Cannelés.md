@@ -1,3 +1,4 @@
+👥Pour 30 cannelés
 🔗 https://www.youtube.com/watch?v=3j5hvT4Vq4U
 🔪 Moules à cannelés en cuivre
 🔪 Kiwk
@@ -19,7 +20,7 @@
 ⚖ Jaunes d'œufs 📏6
 ⚖ Sucre semoule 📏300 g
 ⚖ Cassonade 📏210 g
-⚖ Farine T55 📏240 g
+⚖ Farine T65 📏240 g
 ⚖ Vanille liquide 📏24 g
 ⚖ Rhum brun 📏105 g
 ***
