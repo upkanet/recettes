@@ -1,26 +1,30 @@
 🔗 https://www.youtube.com/watch?v=fu_GQ10Mecs (Meringue)
 🔗 https://www.youtube.com/watch?v=U0tC0-WiRpc
-🔪 Poche à douille
 ***
 🔧 Mettre un cul-de-poule au congélateur
 ***
-⚖ Blancs d'oeufs tempérés 📏 3 oeufs
+⚖ Blancs d'oeufs tempérés 📏 6 oeufs
 ***
 🔧 Nettoyer parfaitement la cuve
 🔧 Battre les blancs jusqu'à mousser
 ***
-⚖ Sucre en poudre 📏 150 g
+⚖ Sucre en poudre 📏 300 g
 ***
-🔧 Incorporer la moitié du sucre
+🔧 Incorporer 100g du sucre
 🔧 Battre plus vite
 🔧 Incorporer le reste du sucre
 🔧 Battre à fond
 🔧 Arrêter quand c'est lisse et brillant
 ***
-🔧 Remplir la poche à douille
-🔧 Faire des disques en escargot
+⚖ Vinaigre de riz (ou blanc) 📏 1.5 cc
+***
+🔧 Ajouter le vinaigre
+***
+🔧 Faire des boules de grosse cuillère à soupe
+🔧 Faire des cornes à la cuillère sur les meringues
 🔧 Etaler une plaque de meringue
-🔧 Sécher au four 📏 105 °C 📏 4h
+🔧 Cuire 📏 105 °C 📏 50 min
+🔧 Sécher 📏 40 °C 📏 1 h+
 ***
 ⚖ Fraises 📏 500 g
 ***
