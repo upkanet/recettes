@@ -1,0 +1,13 @@
+services:
+  recettes:
+    build: .
+    container_name: recettes
+    ports:
+      - 3002:3002
+    restart: unless-stopped
+    networks:
+      - web-network
+
+networks:
+  web-network:
+    external: true
