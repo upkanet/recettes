@@ -2,7 +2,7 @@ import express from 'express'
 import fs from 'fs'
 import {default as showdown}  from 'showdown'
 const app = express()
-const port = 3002
+const port = 3000
 
 import listContents from 'list-contents'
 
