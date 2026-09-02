@@ -11,7 +11,7 @@ COPY . .
 RUN npm install
 
 # Indique que l'app écoute sur le port 3002 (purement informatif)
-EXPOSE 3002
+EXPOSE 3000
 
 # Commande de démarrage
 CMD ["node", "server.mjs"]
