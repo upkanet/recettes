@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "desserts/Pavlova.md",
+                "file": "plats/Pasta Al Ragu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pavlova"
+              "title": "Pasta Al Ragu"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -166,9 +168,11 @@
   },
   "active": "4178e115bf5cf3ce",
   "lastOpenFiles": [
+    "plats/Sushi.md",
+    "plats/Pasta Al Ragu.md",
+    "desserts/Pavlova.md",
     "plats/Purée Robuchon.md",
     "plats/Rumsteak BBQ.md",
-    "plats/Sushi.md",
     "plats/Homard au four.md",
     "plats/Mozzarella.md",
     "plats/Pennette Gratinate all'Aragosta.md",
@@ -179,7 +183,6 @@
     "desserts/Brownies.md",
     "desserts/Scones.md",
     "desserts/Clotted Cream.md",
-    "desserts/Pavlova.md",
     "desserts/Cookies.md",
     "glaces/Fraise.md",
     "glaces/Yahourt.md",
