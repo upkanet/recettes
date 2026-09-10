@@ -38,10 +38,10 @@
 🔧 Mettre très peu de farine sur le plat de travail
 🔧 Faire le "schiaffo"
 ***
-⚖ Purée de tomate 📏 1.5 louches
+⚖ Purée de tomate San Marzano📏 1.5 louches
 ⚖ Basilic
 ⚖ Mozzarella Fior di Latte (idéalement découpée et séchée depuis la veille)
 ⚖ Huile d'olive
 ***
 🔧 Déposer sur la pâte tomate, basilic, mozza et huile
-🔧 Enfourner 📏 55-60 sec
+🔧 Enfourner 📏 55-70 sec
