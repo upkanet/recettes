@@ -38,7 +38,12 @@
 🔧 Délayer le cube dedans
 ***
 🔧 Incorporer progressivement le bouillon de boeuf 📏 1/4 par h
-🔧 Faire mijoter à feu très doux 📏 4 h
+🔧 Faire mijoter à feu très doux 📏 3 h 30
+***
+⚖️ Lait entier  📏 1 verre
+***
+🔧 Ajouter le lait
+🔧 Faire mijoter encore 📏 30 min    
 ***
 ⚖️ Pâtes (13% prot+) 	📏 500g
 ***
