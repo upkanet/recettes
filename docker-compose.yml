@@ -4,6 +4,8 @@ services:
     container_name: recettes
     ports:
       - 3002:3000
+    volumes:
+      - ./recettes:/app/recettes
     restart: unless-stopped
     networks:
       - web-network
