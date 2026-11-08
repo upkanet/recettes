@@ -19,3 +19,13 @@ blockquote{
     width: 100px;
     text-align: right;
 }
+
+hr {
+    margin-top: 10px;
+    border: none;
+    border-top: 1px dotted lightgray;
+}
+
+img {
+    vertical-align: middle;
+}
