@@ -1,3 +1,6 @@
+🔪 Toaster
+
+***
 🔧 Préchauffer le four 📏 180°C
 
 ***
