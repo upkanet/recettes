@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Ingrédient",
+    "text": "⚖ "
+  },
+  {
+    "label": "Action",
+    "text": "🔧 "
+  },
+  {
+    "label": "Mesure",
+    "text": " 📏 "
+  },
+  {
+    "label": "Ligne",
+    "text": "\n***\n"
+  },
+  {
+    "label": "Outil",
+    "text": "🔪 "
+  },
+  {
+    "label": "Lien",
+    "text": "🔗 "
+  }
+]
